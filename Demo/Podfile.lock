@@ -1,0 +1,12 @@
+PODS:
+  - UIColor-MMAdditions (0.0.2)
+
+DEPENDENCIES:
+  - UIColor-MMAdditions
+
+SPEC CHECKSUMS:
+  UIColor-MMAdditions: cb8c1a9cb36dabfe5d6c7bf7564d2cdddfdc20d7
+
+PODFILE CHECKSUM: 81951c10e9f04356ba2abc08e6d425b9a529fbab
+
+COCOAPODS: 1.1.0.rc.2
